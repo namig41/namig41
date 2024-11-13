@@ -2,7 +2,7 @@
   <img src="https://github.com/namig41/namig41/blob/main/hello.webp" height=300></img>
   
 <h3>Python Backend Developer</h3>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/namig41">
   <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub">
 </a>
 <a href="https://t.me/namig41">
@@ -17,7 +17,6 @@
 </div>
 
 -----
-<img src="https://komarev.com/ghpvc/?username=namig41&style=flat-square&color=blue" alt=""/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=namig41&theme=meta-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
