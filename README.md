@@ -1,7 +1,7 @@
 <div align=center>
-  <img src="https://github.com/namig41/namig41/blob/main/hello.webp"></img>
+  <img src="https://github.com/namig41/namig41/blob/main/hello.webp" height=300 width=500></img>
   
-  <h3>Software engineer</h3>
+  <h3>Python Back</h3>
   <a href="https://t.me/namig41">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Blue&style=for-the-badge">
   </a>
