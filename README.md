@@ -18,8 +18,6 @@
 
 -----
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=namig41&theme=meta-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namig41&show_icons=true&theme=radical)
 
 - 🐍 **Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092D4A?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
