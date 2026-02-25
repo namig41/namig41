@@ -1,24 +1,42 @@
-<div align=center>
-  <img src="https://github.com/namig41/namig41/blob/main/hello.webp" height=300></img>
-  
-<h3>Python Backend Developer</h3>
-<a href="https://github.com/namig41">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" alt="GitHub">
-</a>
-<a href="https://t.me/namig41">
-  <img src="https://img.shields.io/badge/Telegram-Blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram">
-</a>
-<a href="https://namig41.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-green?logo=GitHub-Pages&logoColor=white&style=for-the-badge" alt="Portfolio">
-</a>
-<a href="mailto:guseinovnamig41@gmail.com">
-  <img src="https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-</a>
+<div align="center">
+  <img src="https://github.com/namig41/namig41/blob/main/hello.webp" height="300" alt="Hello!">
+  <h3>🐍 Python Backend Developer</h3>
+
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/namig41)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/namig41)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-10B981?logo=github-pages&logoColor=white&style=for-the-badge)](https://namig41.github.io/)
+  [![Email](https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:guseinovnamig41@gmail.com)
 </div>
 
------
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namig41&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-- 🐍 **Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092D4A?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- 🛠️ Open Source Contributor
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namig41&show_icons=true&theme=radical)
+
+---
+
+### 💼 Tech Stack
+
+- **Languages & Frameworks**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+- **Infrastructure & Tools**:  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white)
+
+- **Practices**:  
+  ✅ Clean Code  
+  ✅ RESTful API Design  
+  ✅ CI/CD Pipelines  
+  ✅ Microservices Architecture  
+  ✅ Open Source Contributor
+
+---
+
+> “Write code that is easy to delete — not easy to extend.”  
+> — *Inspired by the Zen of Python*
