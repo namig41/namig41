@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/namig41/namig41/blob/main/hello.webp" height="300" alt="Hello!">
+  <img src="https://github.com/namig41/namig41/blob/main/preview.png" height="300" alt="Hello!">
   <h3>🐍 Python Backend Developer</h3>
 
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/namig41)
