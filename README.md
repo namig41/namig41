@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/namig41/namig41/blob/main/preview.png" height="300" alt="Hello!">
-  <h3>Python Backend Developer</h3>
+  <h3>Backend Developer</h3>
 
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/namig41)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/namig41)
@@ -21,6 +21,7 @@
 
 - **Languages & Frameworks**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
